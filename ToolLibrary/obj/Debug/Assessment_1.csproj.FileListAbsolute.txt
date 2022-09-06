@@ -1,0 +1,12 @@
+/Users/droobs/Documents/QUT Stuff/2021/Semester 1/CAB301/Assessment 1/Assessment Code/Assessment_1/Assessment_1/obj/Debug/Assessment_1.csprojAssemblyReference.cache
+/Users/droobs/Documents/QUT Stuff/2021/Semester 1/CAB301/Assessment 1/Assessment Code/Assessment_1/Assessment_1/obj/Debug/Assessment_1.csproj.CoreCompileInputs.cache
+/Users/droobs/Documents/QUT Stuff/2021/Semester 1/CAB301/Assessment 1/Assessment Code/Assessment_1/Assessment_1/bin/Debug/Assessment_1.exe
+/Users/droobs/Documents/QUT Stuff/2021/Semester 1/CAB301/Assessment 1/Assessment Code/Assessment_1/Assessment_1/bin/Debug/Assessment_1.pdb
+/Users/droobs/Documents/QUT Stuff/2021/Semester 1/CAB301/Assessment 1/Assessment Code/Assessment_1/Assessment_1/obj/Debug/Assessment_1.exe
+/Users/droobs/Documents/QUT Stuff/2021/Semester 1/CAB301/Assessment 1/Assessment Code/Assessment_1/Assessment_1/obj/Debug/Assessment_1.pdb
+/Users/droobs/Documents/Work Application Fun/Github Projects/Tool Library System/Assessment_1/bin/Debug/Assessment_1.exe
+/Users/droobs/Documents/Work Application Fun/Github Projects/Tool Library System/Assessment_1/bin/Debug/Assessment_1.pdb
+/Users/droobs/Documents/Work Application Fun/Github Projects/Tool Library System/Assessment_1/obj/Debug/Assessment_1.csproj.AssemblyReference.cache
+/Users/droobs/Documents/Work Application Fun/Github Projects/Tool Library System/Assessment_1/obj/Debug/Assessment_1.csproj.CoreCompileInputs.cache
+/Users/droobs/Documents/Work Application Fun/Github Projects/Tool Library System/Assessment_1/obj/Debug/Assessment_1.exe
+/Users/droobs/Documents/Work Application Fun/Github Projects/Tool Library System/Assessment_1/obj/Debug/Assessment_1.pdb
