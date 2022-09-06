@@ -8,9 +8,9 @@ To use, simply run the program once opened in Visual Studio. There are two user 
 
 Staff login uses the following details:
 
-Username: staff
-Password: today123
-  
+  1. Username: staff
+  2. Password: today123
+
 From the staff menu many forms of admin functionality are available. Main things are adding and removing tools to and from the library system, and into their specific categories. As well is the creation of users/members.
 
 Some pre-made users are also avaialble for exploring the user/member menu, their usernames and passwords can be found at the top of 'Program.cs'.
